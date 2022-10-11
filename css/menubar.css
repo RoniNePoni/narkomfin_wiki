@@ -1,0 +1,17 @@
+.menubar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 54px;
+padding: 10px 20px;
+border-bottom: 1px solid #bbb;
+}
+
+.menubar img {
+  height: 17px;
+}
+
+.menubar a {
+  color: #777;
+  rext-decoration: none;
+}
