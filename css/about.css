@@ -45,6 +45,7 @@ section:nth-of-type(3) div:nth-of-type(1){
 .bottom_block p {
   margin: 82px auto;
   width: 800px;
+
 }
 
 .bottom_block a {
@@ -54,7 +55,8 @@ section:nth-of-type(3) div:nth-of-type(1){
   display: inline-block;
   border-radius: 6px;
   padding: 18px 37px;
-  margin: 24
+  margin: 24px;
+
 }
 
  .btn {
